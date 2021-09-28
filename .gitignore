@@ -1,0 +1,3 @@
+# 隐藏.env
+.env  
+node_modules
